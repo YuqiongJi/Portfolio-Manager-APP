@@ -1,0 +1,18 @@
+C:\Users\Yuqiong Ji\source\repos\HW5_ExoticOptions\obj\Debug\HW5_ExoticOptions.csprojAssemblyReference.cache
+C:\Users\Yuqiong Ji\source\repos\HW5_ExoticOptions\obj\Debug\HW5_ExoticOptions.Properties.Resources.resources
+C:\Users\Yuqiong Ji\source\repos\HW5_ExoticOptions\obj\Debug\HW5_ExoticOptions.csproj.GenerateResource.cache
+C:\Users\Yuqiong Ji\source\repos\HW5_ExoticOptions\bin\Debug\HW5_ExoticOptions.exe.config
+C:\Users\Yuqiong Ji\source\repos\HW5_ExoticOptions\bin\Debug\HW5_ExoticOptions.exe
+C:\Users\Yuqiong Ji\source\repos\HW5_ExoticOptions\bin\Debug\HW5_ExoticOptions.pdb
+C:\Users\Yuqiong Ji\source\repos\HW5_ExoticOptions\obj\Debug\HW5_ExoticOptions.exe
+C:\Users\Yuqiong Ji\source\repos\HW5_ExoticOptions\obj\Debug\HW5_ExoticOptions.pdb
+C:\Users\Yuqiong Ji\source\repos\HW5_ExoticOptions\obj\Debug\HW5_ExoticOptions.Form1.resources
+C:\Users\Yuqiong Ji\Desktop\MFM\2019 Fall\5091\homework\HW5_ExoticOptions\bin\Debug\HW5_ExoticOptions.exe.config
+C:\Users\Yuqiong Ji\Desktop\MFM\2019 Fall\5091\homework\HW5_ExoticOptions\bin\Debug\HW5_ExoticOptions.exe
+C:\Users\Yuqiong Ji\Desktop\MFM\2019 Fall\5091\homework\HW5_ExoticOptions\bin\Debug\HW5_ExoticOptions.pdb
+C:\Users\Yuqiong Ji\Desktop\MFM\2019 Fall\5091\homework\HW5_ExoticOptions\obj\Debug\HW5_ExoticOptions.csprojAssemblyReference.cache
+C:\Users\Yuqiong Ji\Desktop\MFM\2019 Fall\5091\homework\HW5_ExoticOptions\obj\Debug\HW5_ExoticOptions.Form1.resources
+C:\Users\Yuqiong Ji\Desktop\MFM\2019 Fall\5091\homework\HW5_ExoticOptions\obj\Debug\HW5_ExoticOptions.Properties.Resources.resources
+C:\Users\Yuqiong Ji\Desktop\MFM\2019 Fall\5091\homework\HW5_ExoticOptions\obj\Debug\HW5_ExoticOptions.csproj.GenerateResource.cache
+C:\Users\Yuqiong Ji\Desktop\MFM\2019 Fall\5091\homework\HW5_ExoticOptions\obj\Debug\HW5_ExoticOptions.exe
+C:\Users\Yuqiong Ji\Desktop\MFM\2019 Fall\5091\homework\HW5_ExoticOptions\obj\Debug\HW5_ExoticOptions.pdb

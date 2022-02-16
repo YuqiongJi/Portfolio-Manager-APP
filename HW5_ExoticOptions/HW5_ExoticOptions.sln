@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW5_ExoticOptions", "HW5_ExoticOptions.csproj", "{9C125090-0BEF-4147-AF42-ADB4DCC33250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C125090-0BEF-4147-AF42-ADB4DCC33250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C125090-0BEF-4147-AF42-ADB4DCC33250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C125090-0BEF-4147-AF42-ADB4DCC33250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C125090-0BEF-4147-AF42-ADB4DCC33250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DA22E45-C657-4830-94A3-9FE7A6578A70}
+	EndGlobalSection
+EndGlobal
